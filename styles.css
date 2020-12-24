@@ -6,7 +6,8 @@ body {
 .centralized {
     width: 80%;
     margin-left: 10%;
-    margin-top: 5%;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
 }
 
 h1, h2, h3, h4, h5, h6, p {
